@@ -51,5 +51,3 @@ Contributions welcome. Open issues or PRs with improvements or bug fixes. Please
 Add a license file (e.g., `MIT`) if you want to make this project open source.
 
 ---
-
-If you want, I can also create a `LICENSE` file, a minimal `README` badge set, or add GitHub Actions for linting and tests — tell me which you'd like next.
